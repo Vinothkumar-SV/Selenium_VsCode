@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite threadcount="3" name="Automation Suite">
+  <test name="Login Test">
+    <classes>
+      <class name="com.testleaf.week1.CreateLead"/>
+    </classes>
+  </test>
+</suite>

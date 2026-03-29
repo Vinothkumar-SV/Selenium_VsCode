@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-06T19:34:22 IST" name="Automation Suite" finished-at="2026-02-06T19:34:47 IST" duration-ms="24641">
+    <groups>
+    </groups>
+    <test started-at="2026-02-06T19:34:22 IST" name="Login Test" finished-at="2026-02-06T19:34:47 IST" duration-ms="24641">
+      <class name="com.testleaf.week1.CreateLead">
+        <test-method signature="createLead()[pri:0, instance:com.testleaf.week1.CreateLead@5bd03f44]" started-at="2026-02-06T19:34:22 IST" name="createLead" finished-at="2026-02-06T19:34:47 IST" duration-ms="24586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLead -->
+      </class> <!-- com.testleaf.week1.CreateLead -->
+    </test> <!-- Login Test -->
+  </suite> <!-- Automation Suite -->
+</testng-results>
